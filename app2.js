@@ -1,5 +1,5 @@
 // const maps = ["../map-polygon.svg", "../map-circle.svg", "../map-mobile.svg", "../map-full.svg"]
-const maps = ["../map-full.svg"]
+const maps = ["map-full.svg"]
 const containers = document.querySelectorAll('.map')
 const synth = window.speechSynthesis;
 const prefNames = [
